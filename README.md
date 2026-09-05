@@ -12,7 +12,7 @@ A server-side session management plugin for [FM-DX Webserver](https://github.com
 - **Admin exemption** — logged-in administrators are fully exempt; the widget does not appear for them
 ## Screenshot
  
-> *(add your screenshot here)*
+<img width="1886" height="892" alt="image" src="https://github.com/user-attachments/assets/d6f6f83b-d0a7-4f1c-a3dc-1b5bee5cbe58" />
  
 ## Requirements
  
