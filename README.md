@@ -64,4 +64,4 @@ MIT License — free to use, modify and share.
  
 ## Author
  
-Created by Balázs, with assistance from Claude (Anthropic).
+Created by altermanus, with assistance from Claude (Anthropic).
